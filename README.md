@@ -11,7 +11,7 @@
 目前关注 **AI 工作流、自动化和跨平台应用**，也在探索怎样让日常创作与开发更轻松。
 
 <div align="center">
-  <img src="assets/cat-developer-banner.png" alt="坐在电脑前的橘猫与咖啡" width="100%">
+  <img src="assets/cat-developer-banner-short.png" alt="坐在电脑前的橘猫与咖啡" width="100%">
 </div>
 
 ## 关注的方向
