@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="assets/profile-business-card.png" alt="向之禹Nick的个人名片：AI Native · 知行合一" width="100%">
-  <br /><br />
-  <img src="assets/typewriter-tagline.gif" alt="传统行业到AI创新的跨界实践者..." width="100%">
+  <img src="assets/profile-business-card.gif" alt="向之禹Nick个人名片，逐字显示传统行业到AI创新的跨界实践者..." width="100%">
 </div>
 
 ---
