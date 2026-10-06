@@ -1,8 +1,15 @@
-<div align="center">
-  <h1>向之禹Nick 👋</h1>
-  <p><strong>把复杂流程，做成顺手的工具。</strong></p>
-  <p>AI 工作流 · 自动化 · 跨平台应用</p>
-</div>
+<table>
+  <tr>
+    <td align="center" width="36%">
+      <h1>向之禹Nick 👋</h1>
+      <p><strong>AI Native · 知行合一</strong></p>
+    </td>
+    <td>
+      <p><strong>把复杂流程，做成顺手的工具。</strong></p>
+      <p>AI 工作流 · 自动化 · 跨平台应用</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -11,6 +18,10 @@
 我喜欢从真实问题出发，把繁琐的步骤整理成清楚、可靠、能持续迭代的软件。
 
 目前关注 **AI 工作流、自动化和跨平台应用**，也在探索怎样让日常创作与开发更轻松。
+
+<div align="center">
+  <img src="assets/cat-developer-banner.png" alt="坐在电脑前的橘猫与咖啡" width="100%">
+</div>
 
 ## 关注的方向
 
