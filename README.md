@@ -1,15 +1,8 @@
-<table>
-  <tr>
-    <td align="center" width="36%">
-      <h1>向之禹Nick 👋</h1>
-      <p><strong>AI Native · 知行合一</strong></p>
-    </td>
-    <td>
-      <p><strong>把复杂流程，做成顺手的工具。</strong></p>
-      <p>AI 工作流 · 自动化 · 跨平台应用</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/profile-business-card.png" alt="向之禹Nick的个人名片：AI Native · 知行合一" width="100%">
+  <br /><br />
+  <img src="assets/typewriter-tagline.gif" alt="传统行业到AI创新的跨界实践者..." width="100%">
+</div>
 
 ---
 
