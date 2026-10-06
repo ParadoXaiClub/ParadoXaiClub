@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-business-card.gif" alt="向之禹Nick个人名片，逐字显示传统行业到AI创新的跨界实践者..." width="100%">
+  <img src="assets/profile-banner.gif" alt="动态个人名片与电脑前的橘猫" width="100%">
 </div>
 
 ---
@@ -9,10 +9,6 @@
 我喜欢从真实问题出发，把繁琐的步骤整理成清楚、可靠、能持续迭代的软件。
 
 目前关注 **AI 工作流、自动化和跨平台应用**，也在探索怎样让日常创作与开发更轻松。
-
-<div align="center">
-  <img src="assets/cat-developer-banner-short.png" alt="坐在电脑前的橘猫与咖啡" width="100%">
-</div>
 
 ## 关注的方向
 
